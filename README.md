@@ -1,6 +1,6 @@
 # PRINCE2 Foundation summary #
 
-The essential knowledge for the PRINCE2 foundation exam. All bullet points are very brief, for details you better refer to the excellent [PRINCE2 foundation training manual by Management Plaza](http://www.mgmtplaza.com/elearn/dirBooks/P2FPM42.pdf).
+The essential knowledge for the PRINCE2 foundation exam. All bullet points are very brief.
 
 Some essential abbreviations:
 
