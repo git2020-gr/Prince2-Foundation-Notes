@@ -25,6 +25,8 @@ Some essential abbreviations:
 - PRINCE2 definition: project is a temporary organization created for the purpose of delivering one or more business products according to an agreed BC 
 - **program**: set of related projects
 
+![alt text](images/The-Structure-of-PRINCE2-1024x667.jpg)
+
 ### PRINCE2 structure / core elements ###
 - principles
 - themes (what items must be addressed, e.g. BC, Organization, Quality, Change)
